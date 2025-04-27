@@ -9,3 +9,4 @@ Faiss 是一个用于高效相似性搜索和密集向量聚类的库。它包�
 
 - [相似性搜索原理](./similarity_search.md)
 - [Faiss 研究基础](./research_foundations.md)
+- [开始](./getting-started.md)
